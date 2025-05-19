@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firstfile on Terminal</title>
+    <link>//localhost:1313/tags/firstfile/</link>
+    <description>Recent content in Firstfile on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/firstfile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Big Bad Demo File</title>
+      <link>//localhost:1313/posts/first-file/</link>
+      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/first-file/</guid>
+      <description>&lt;h2 id=&#34;this-is-a-demo-file-for-my-project&#34;&gt;This is a demo file for my project.&lt;/h2&gt;&#xA;&lt;p&gt;Well, can you read this?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
