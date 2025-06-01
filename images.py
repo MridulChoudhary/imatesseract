@@ -1,7 +1,6 @@
 import os
 import re
 import shutil
-
 posts_dir = r"C:\Blog\imatesseract_vault\posts"
 attachments_dir = r"C:\Blog\imatesseract_vault"
 static_images_dir = r"C:\Blog\imatesseract\static\images"
